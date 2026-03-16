@@ -1,0 +1,16 @@
+[
+    {
+        "id": "IC-001",
+        "nombre": "Gorra Iconic Classic Black",
+        "precio": 450,
+        "link": "https://wa.me/tu_numero?text=Me_interesa_la_gorra_negra",
+        "imagen": "assets/gorra_negra.jpg"
+    },
+    {
+        "id": "NX-502",
+        "nombre": "Perfume Nexora Night",
+        "precio": 890,
+        "link": "https://wa.me/tu_numero?text=Quiero_el_perfume_Nexora",
+        "imagen": "assets/perfume.jpg"
+    }
+]
